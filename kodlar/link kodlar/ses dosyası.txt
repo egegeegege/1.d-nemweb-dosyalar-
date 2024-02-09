@@ -1,0 +1,14 @@
+<html>
+<head>
+
+<title>resimekleme</title>
+
+</head>
+<body>
+<audio controls autoplay width="2070" height="1600">
+<source src="http://meb.ai/FN7MRY" type="audio/mp3	">
+
+</audio>
+
+</body>
+</html>

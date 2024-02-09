@@ -1,0 +1,21 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <style>
+            .mainbox{
+                width: 700px;
+                height: 1000px;
+                background-color: aqua;
+            }
+
+            @media screen and (min-width:400px){
+
+            .mainbox{
+                 background-color:coral;       
+            }
+        }
+        </style>
+        <div class="mainbox"></div>
+    </body>
+</html>

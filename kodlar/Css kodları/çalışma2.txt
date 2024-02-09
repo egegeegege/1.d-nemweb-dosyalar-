@@ -1,0 +1,25 @@
+	<html lang="tr">
+    <head>
+        <title>ssss</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h3 style="color: rgb(44, 159, 204);">İSTANBUL</h3>
+        <pre style="background-color: rgb(44, 159, 204); color: white;">
+ Kamyonlar kavun taşır ve ben 
+ Boyuna onu düşünürdüm
+ Kamyonlarkavun taşır ve
+ Boyua onu düşünürdüm
+ Niksarda evimizdeyken
+ Küçük birserçekadar hürdüm
+<br>
+Sonra alem değişiverdi
+ Ayrı su ayrı hava ayrı toprak
+ Sonra alem değişiverdi
+ Ayrı su ayrı hava ayrı toprak
+ Mevsimler ne çabuk geçi verdi
+Unutmak unutmak unutmak
+        </pre>
+        <h3 style="text-align: end;">CAHİT KÜLEBİ</h3>
+    </body>
+</html>

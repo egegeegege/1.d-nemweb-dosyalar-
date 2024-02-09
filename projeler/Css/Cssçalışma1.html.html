@@ -1,0 +1,65 @@
+<!DOCTYPE html lang="tr">
+    <head>
+        <title>CSS</title>
+        <meta charset="utf-8">
+
+        <style>
+        *{
+            margin: 130px;
+            padding: 0; 
+            box-sizing: border-box;
+        }
+         body{
+            height: 10;
+            display:flex;
+            align-items: center;
+            justify-content: center;
+            
+        }
+        .container{
+            display: flex;
+            flex-direction: column;
+            width: 400px;
+            padding: 15px;
+            border: 1px solid 
+            rgb(255, 0, 98);
+            border-radius: 5px;
+        }
+        input{
+            margin: 5px 10px;
+            height: 35px;
+            padding: 7px;
+        }
+        button{
+            height: 35px;
+            margin: 5px 0px;
+            background-color:
+             rgb(255, 0, 98);
+             border: none;
+             border-radius: 5px;
+             color: #ffffff;
+        }
+        button:hover{
+            background-color: #6917b6;
+            color: black;
+        }
+
+        
+        </style>
+    </head>
+    <body>
+<div class="container">
+
+    <input type="text"
+    placeholder="Name Surname" required>
+    <input type="email"
+    placeholder="Email" required>
+
+    <input type="password"
+    placeholder="Password" required>
+    <button>Login</button>
+
+
+</div>
+    </body>
+</html>

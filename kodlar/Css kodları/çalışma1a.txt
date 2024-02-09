@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <style>
+            .container{
+                width: 800px;
+                margin: auto;
+            }
+            .body{
+                height: 200px;
+                color: black;
+                border: 2px dotted skyblue;
+                background-image: url(indir.png);
+                background-size: cover;
+            }
+            .nav{
+                height: 50px;
+                color: black;
+                border:2px dotted red;
+                padding: 10px;
+            }
+            .content{
+                height: 100px;
+                color: black;
+                border:2px dotted green;
+            }
+            .footer{
+                height: 300px;
+                color: black;
+                border: 2px dotted red;
+                margin: 10px 0px 20px 0px;
+                background-image: url(images.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+            .metin1{
+                height: 50px;
+                color: black;
+                border:2px dotted blueviolet;
+
+            }
+            p{
+                color: blue;
+                background-color: black;
+            }
+            span{
+                color: firebrick;
+                background-color: cadetblue;
+                
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="body">body</div>
+            <div class="nav">navigation</div>
+            <div class="content">content</div>
+            <div class="footer">Footer</div>
+            <div class="metin1">metin1</div>
+        </div>
+       <p> Lorem ipsum dolor sit amet <span> consectetur </span>adipisicing elit. Quas itaque ullam corporis, est <br>
+        delectus tempora necessitatibus ratione accusamus officia <br>
+         accusantium enim doloribus molestiae qui cumque totam velit. Fuga, non quis.</p>
+    </body>
+</html>

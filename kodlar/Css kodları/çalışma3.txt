@@ -1,0 +1,14 @@
+<html lang="tr">
+    <head>
+        <title>ssss</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <ul type="disc">
+            <li style="background-color: red; font-size:large;">kırmızı</li>
+            <li style="background-color: green; font-size:medium">yeşil</li>
+            <li style="background-color: skyblue; font-size: small;">mavi</li>
+
+        </ul>
+    </body>
+</html>

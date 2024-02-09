@@ -1,0 +1,80 @@
+<!DOCTYPE html lang="tr">
+    <head>
+        <title>CSS</title>
+        <meta charset="utf-8">
+    <style>
+        *{
+            margin: 130px;
+            padding: 0;
+            box-sizing: border-box;
+        }
+           body{
+            background-color:rgb(7, 92, 92);
+            height: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-image: url(scenic-seaside-village-exx4zw2j6crsd9re.jpg);
+            background-size:cover ;      
+        }
+           .container{
+            display: flex;
+            width: 400px;
+            padding: 15px;
+            flex-direction: column;
+            border: 2px solid 
+            skyblue;
+            border-radius: 10px; 
+            align-items: center;
+            justify-content: center;
+            display: flex;
+            background-color: darkcyan;
+            background-image: url(sonbahar.jpg);
+            background-size:cover ;
+        }
+             input{
+                margin: 5px 10px;
+                height: 35px;
+                padding: 7px;
+                width: 300px;
+                border-radius: 10px;
+                border: 1px solid black;
+        }
+             button{
+                height: 35px;
+                width: 150px;
+                margin: 5px 0px;
+                background-color: 
+                rgb(115, 204, 240);
+                border: none;
+                border-radius: 5px;
+                color: white;
+        }
+             button:hover{
+                background-color:#FFB534;
+                color: black;
+         }
+         a{
+            margin: auto;
+         }
+        
+    </style>
+    </head>
+    <body>
+        <div class="container">
+
+            <input type="email" placeholder="E-posta" required>
+            <input type="password" placeholder="Şifre" required>
+           
+           
+           <a href="Ormanlarımız.html"> <button onclick="myFunction()" id="diğersayfa" >Giriş Yap</button></a>
+           <a href="kayıtol.html"> <button id="diğersayfa" id="kayit" >kayıt ol</button></a>
+           
+           <script>
+            function myFunction() {
+                alert("Bilgileriniz Elimize Ulaşmıştır Teşekkür Ederiz!");
+            }
+           </script>
+        </div>
+    </body>
+    </html>

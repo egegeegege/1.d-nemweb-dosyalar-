@@ -1,0 +1,30 @@
+<html>
+<body>
+<h3>BİLGİSAYAR OYUNLARI</h3>
+<ol type="I">
+      <li><i>FPS</i></li>
+<ul type="square">
+      <li>valorant</li>
+      <li>Cs Go</li>
+      <li>Half Life</li>
+      <li>Cs 1.6</li>
+</ul>
+      <li>STRATEJİ</li>
+<ul type="circle">
+      <li>Hoi4</li>
+	  <li>Eu4</li>
+	  <li> Age of History </li>
+	  <li>Victoria 3</li>
+</ul >
+      <li>SİMİLASYON</li>
+<ul type="disc">
+      <li>Euro Truck Similator</li>
+	  <li>Farm Similator</li>
+	  <li> Asetto Corsa </li>
+	  <li>Forza Horizon</li>
+   
+   </ul>
+   </ol>
+   
+</body>
+</html>

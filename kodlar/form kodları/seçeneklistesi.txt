@@ -1,0 +1,24 @@
+<html lang="tr">
+    <head>
+        <title>Formdoldur</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <form action="" method="get">
+        <h1>onay kutusu</h1>
+        <label>hobileriniz</label><br><br>
+        <input type="checkbox"name="hobi1" checked>Resim yapmak<br>
+        <input type="checkbox"name="hobi2">Bisikletle Gezmek<br>
+        <input type="checkbox"name="hobi3">Yüzmek<br><br>
+        <input type="submit"value="Gönder">
+    </form>
+    <form action="" method="get">
+            <h1>seçenek kutusu</h1>
+            <label>tuttuğunuz takım</label><br><br>
+            <input type="radio"name="takım" checked>Beşiktaş<br>
+            <input type="radio"name="takım">gs<br>
+            <input type="radio"name="takım">fb<br><br>
+            <input type="submit"value="Gönder">
+    </form>
+    </body>
+</html>

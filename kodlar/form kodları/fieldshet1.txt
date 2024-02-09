@@ -1,0 +1,28 @@
+<html lang="tr">
+    <head>
+        <title>Formdoldur</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+      <form>
+
+        <fieldset>
+
+<legend><h3>üyelik bilgileri</h3></legend>
+   
+             <label for="adsoyad">Ad Soyad:</label>
+            <input type="text"required name="adsoyad"><br><br>
+
+            <label for="e-posta">E-posta:</label>
+            <input type="email"required name="adsoyad"><br><br>
+
+            <label for="yaş">Doğum gününüz</label>
+            <input type="date"required name="yaş"><br><br>
+
+            <input type="submit"required>
+            <input type="reset"required>
+        </fieldset> 
+
+      </form>
+    </body>
+</html>

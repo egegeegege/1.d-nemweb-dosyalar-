@@ -1,0 +1,69 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX0xxYRjjQK5Nilw5lMp3n_NYJaKtT9ROm-tmXx41sdrjJ6ATo9dsz2uAcHoMVVc7aVYI&usqp=CAU);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-repeat: repeat;
+background-size: 100%;
+}
+
+.container {
+    height: 40px;
+    margin: auto;
+
+}
+
+
+button {
+    background-color:#46d4d4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+    width: 300px;
+}
+
+button:hover {
+    background-color: rgb(255, 0, 200);
+    color: black;
+}
+
+.lik {
+    text-decoration: none;
+    color: rgb(255, 0, 43);
+}
+
+p,
+h3,
+li {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.lik:hover {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: #47add6;
+    text-decoration: none;
+}
+
+.footer {
+    height: 100px;
+    background-color: #71C9CE;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+}
+
+.fp {
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.resim {
+    opacity: 1;
+}
+.ormanyazi{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: initial;
+}

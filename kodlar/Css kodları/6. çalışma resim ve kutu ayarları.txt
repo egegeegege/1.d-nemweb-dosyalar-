@@ -1,0 +1,10 @@
+
+div{
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: 14px;
+}
+img{
+    width: 200px;
+    height: 100px;
+}

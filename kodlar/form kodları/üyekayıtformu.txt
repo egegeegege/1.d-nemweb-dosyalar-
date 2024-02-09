@@ -1,0 +1,20 @@
+<html lang="tr">
+    <head>
+        <title>Formdoldur</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h2>üye kayıt formu</h2>
+<form action=""method="get"></form>
+ Adınız Soyadınız:<input type="text" name="ad"required> <br><br>
+ 
+ yaşınız:<input type="number" name="yas"required> <br><br>
+
+ e-postanız:<input type="email" name="eposta"required> <br><br>
+
+ url niz:<input type="url" name="url"> <br><br>
+
+ <input type="submit"value="gönder"> <input type="reset"value="temizle">
+</form>
+    </body>
+</html>

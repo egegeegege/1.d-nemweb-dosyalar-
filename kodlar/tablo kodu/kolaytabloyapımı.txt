@@ -1,0 +1,32 @@
+<html>
+<body>
+
+<table border =1>
+<tr>
+   <strong>
+    <td>Id</td>
+    <td>Ad</td>
+    <td>Soyad</td>
+    <td>Eposta</td>
+	</strong>
+  </tr>
+  <thead>
+  <tbody>
+      <tr>
+      <td>1</td>
+    <td>Kara</td>
+    <td>Kedi</td>
+    <td>Karakedi@gmail.com</td>
+	
+  </tr>
+  <tr>
+        <td>2</td>
+    <td>Ege</td>
+    <td>Aydın</td>
+    <td>Egeaydin@gmail.com</td>
+	
+  </tr>
+  <tr>
+  
+</body>
+</html>

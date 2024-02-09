@@ -1,0 +1,48 @@
+<html lang="tr">
+    <head>
+        <title>Formdoldur</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+      <center>
+        <h3>İş Başvurusu Formu</h3>
+      </center>
+      <form action="" method="get">
+<table >
+        <tr><td>Adı</td><td><input type="text"></td></tr>
+        <tr><td>Soyadı</td><td><input type="text"></td></tr>
+        <tr><td>Doğum Tarihi</td><td><input type="date"></td></tr>
+        <tr><td>Doğum Yeri</td><td><select><option >Ankara</option></select></td></tr><br>
+        
+        <tr><td>Referanslar</td><td><textarea cols="40"rows="3"></textarea></td></tr>
+
+        <tr><td>alışkanlıklar</td><td>
+          <input type="radio"name="alış">Sigara İçiyorum
+         <input type="radio"name="alış">Sosyalİşçiyim
+         <input type="radio"name="alış">İçmiyorum
+        
+        </td></tr>
+
+        <tr><td>Yabancı Dil</td><td><br>
+          <input type="checkbox"name="dil1">Türkçe <br>
+          <input type="checkbox"name="dil1">İngilizce <br>
+          <input type="checkbox"name="dil1">Almanca<br>
+          <input type="checkbox"name="dil1">Makedonca <br>
+          <input type="checkbox"name="dil1">İspanyolca <br>
+          <input type="checkbox"name="dil1">Çince <br>
+          <input type="checkbox"name="dil1">Japonca <br>
+
+        
+        </td></tr>
+
+<tr><td>Askerlik</td><td><select> <option>Tesçilli</option> </select></td></tr>
+<tr><td>Eğitim</td><td><select> <option>Lise</option><option>orta.ö</option><option>ilk.ö</option><option>Yüksek lisans</option> </select></td></tr>
+
+<tr><td>Geçmiş İşler</td><td><textarea cols="40"rows="3"></textarea></td></tr><br>
+
+<center><tr><td></td><td><input type="submit"value="kaydet"></td></tr></center>
+
+      </table>
+      </form>
+    </body>
+</html>

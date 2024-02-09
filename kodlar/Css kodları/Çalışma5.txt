@@ -1,0 +1,24 @@
+<html lang="tr">
+    <head>
+        <meta charset="utf-8">
+        <style>
+        pre{
+            background-color:purple
+            color=aliceblue
+            font-size=14px;
+        }
+        img{
+            width: 150;
+            height: 280;
+        }
+    </style>
+    </head>
+    <body>
+        <pre style="background-color: purple; color: white;">
+            hey hey
+            hey hey hey hey hey
+            gamzendeyim deva bulmam
+        </pre>
+        <img src="images.jpg">
+    </body>
+</html>

@@ -1,0 +1,104 @@
+<html>
+
+<head>
+  <title>Sınav sorusu</title>
+  <meta charset="utf-8">
+
+  <style>
+    .container {
+      width: 1002px;
+      margin: auto;
+    }
+
+    .header {
+      width: 1000px;
+      height: 150px;
+      background-color: #E3FDFD;
+      justify-content: space-around;
+      align-items: center;
+      display: flex;
+      color: #71C9CE;
+    }
+
+    .nav {
+      width: 1000px;
+      height: 30px;
+      background-color: #CBF1F5;
+      justify-content: space-evenly;
+      align-items: center;
+      display: flex;
+    }
+
+    .article {
+      width: 1000px;
+      height: 700px;
+      background-color: #A6E3E9;
+      justify-content: space-around;
+      align-items: center;
+      display: flex;
+    }
+
+    .footer {
+      width: 1000px;
+      height: 100px;
+      background-color: #71C9CE;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      color: white;
+    }
+
+    a {
+      color: #71C9CE;
+      text-decoration: none;
+    }
+
+    .ab {
+      color: #6da7eb;
+      text-decoration: none;
+      font-size: large;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="header">
+      <img src="Apple-Logo.jpg" style="width: 180px; height: 100px;">
+      <p style="font-size: x-large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
+        This is an exam where we create a fake photo file. it is not real!
+      </p>
+    </div>
+
+    <div class="nav">
+      <a href="login.html">Login screen</a>|
+      <a href="Menu.html" class="ab">Menu</a>|
+      <a href="promotion.html">Promotion</a>
+    </div>
+
+    <div class="article">
+      <img src="Clouds-Meet-The-Sea-AI-Generated-4K-Wallpaper-jpg.webp" width="500px" height="400px">
+      <table>
+        <tr>
+          <td>
+            <h3>İos,MacOS,Windows,Linux </h3></td>
+        </tr>
+        <tr>
+          <td>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit ullam culpa ex
+            ad temporibus quod, enim adipisci magni sint vel nisi iusto maxime incidunt. Libero minima
+            nam labore ad? Quod.</td> 
+        </tr>
+      </table>
+    </div>
+
+    <div class="footer">
+      <img src="100-yil-logo-1.png" style="width: 100px; height: 70px;">
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <p style="font-size: x-large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Mustafa
+        Kemal Ataturk father of the Turks!</p>
+    </div>
+  </div>
+</body>
+
+</html>
